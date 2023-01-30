@@ -10,3 +10,4 @@ This is a new repository which is a personal project in process.
   4. Use the trained model to generate a new song by sampling from the learned distributions of musical elements.
   5. Fine-tune the generated song by adjusting elements such as tempo, instrumentation, and melody to create a unique and coherent    composition.
 
+First notebook: EDA https://www.kaggle.com/code/mattison/music-generator-step-1-eda
